@@ -1,0 +1,12 @@
+example BiblioPixel protocol WS281x controller using PIC16F1454 microcontroller
+
+control ~200 WS2812 LEDs (or equivalent) with a cheap USB 8-bit microcontroller
+
+Copyright (C) 2015 Peter Lawrence
+
+based on top of M-Stack USB driver stack by Alan Ott, Signal 11 Software
+
+A open-source PIC16F1454 bootloader by the same author is:
+
+https://code.google.com/p/pic16f1454-bootloader/
+
